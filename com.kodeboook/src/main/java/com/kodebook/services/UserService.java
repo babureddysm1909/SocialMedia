@@ -1,5 +1,9 @@
 package com.kodebook.services;
 
+import java.util.List;
+
+import com.kodebook.entities.Post;
+
 
 
 public interface UserService {
@@ -11,6 +15,9 @@ public interface UserService {
 
 
 	void addUser(com.kodebook.entities.User user);
+
+
+	
 
 
 		
