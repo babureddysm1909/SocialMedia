@@ -39,5 +39,3 @@ implements PostService {
 		repo.save(post);
 	}
 }  
-
-
